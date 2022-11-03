@@ -36,9 +36,7 @@
 	@LOOP              
 	0;JMP
 
-   
-
-	@SCREEN           
+   @SCREEN           
 	D=A                
 	@i        
 	A=D+M           
